@@ -28,6 +28,16 @@
       "whatsapp": "11999999999"
     }
   ],
+  "developers": [
+    {
+      "name": "Dev",
+      "id": 1,
+      "photo": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+      "instagram": "kenzinho",
+      "linkedin": "kenzinho",
+      "github": "kenzinho"
+    }
+  ],
   "histories": [
     {
       "id": 1,
@@ -39,8 +49,9 @@
       "photo": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
       "content": "Conteúdo da história 1",
       "views": 0,
-      "comments": 0,
-      "members": []
+      "comments": [],
+      "members": [],
+      "stars": 0
     }
   ]
 }
